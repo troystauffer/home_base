@@ -4,5 +4,3 @@ Connects to the network specified in the config whenever it is within range by p
 ```
 apt update; apt install nmap macchanger
 ```
-
-Unless the PR gets integrated into the main pwnagotchi project, this will require running this pwnagotchi build: https://github.com/troystauffer/pwnagotchi
